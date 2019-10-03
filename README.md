@@ -21,9 +21,3 @@ Add your name and a link to a picture of yourself
 
 Click the submit button to see your results
 ![Submit Button](/screenshots/Submit Button.png)
-
-On submission, a modal with your friend match will appear upon submission
-![Results Modal](/screenshots/Results Modal.png)
-
-You can view the API route that contains a list of all the friends you can match
-![API Page](/screenshots/API Page.png)
